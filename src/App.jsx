@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import CustomCard from './Components/card';
-import './app.css';
+import './App.css';
 function App() {
 
   const [data, setData] = useState({});
